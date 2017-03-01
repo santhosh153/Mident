@@ -1,2 +1,2 @@
-Mident
+Mident test file
 ======
